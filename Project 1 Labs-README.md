@@ -1,59 +1,38 @@
-<!-- ============================================================ -->
-<!-- HEADER: Kali GIF → Banner → Typing → Badges → Social →      -->
-<!-- Palette: Red (#FF0000) · Blue (#0066FF) · Yellow (#FFD700)  -->
-<!-- ============================================================ -->
-
 <div align="center">
 
-  <!-- 2. Full-width banner -->
-  <img src="./Evidences/Banner.jpg" alt="MAKATOB Cohort 2 Banner" width="100%"/>
+  <!-- 1. Static subtitle -->
+  <p>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=1&pause=999999&color=BFBFBF&center=true&vCenter=true&width=900&height=32&lines=MAKATOB+Cohort+2+%E2%80%94+Ethical+Hacking+%26+Penetration+Testing+Lab" alt="MAKATOB Cohort 2"/>
+  </p>
+
+  <!-- 2. Typing animation -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=BFBFBF&background=0A0A0A&center=true&vCenter=true&width=900&lines=Cybersecurity+Labs+%7C+MAKATOB+Cohort+2;Ethical+Hacking+%26+Penetration+Testing;Deploying+Lab+VMs+with+VirtualBox;Kovilen+Sookalingum" alt="Typing SVG"/>
 
   <br/><br/>
 
-  <!-- 3. Typing animation (yellow on black) -->
-  <a href="https://github.com/YOUR_USERNAME/MAKATOB-Cohort2-Cybersecurity">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFD700&background=000000&center=true&vCenter=true&width=900&lines=Cybersecurity+Labs+%7C+MAKATOB+Cohort+2;Ethical+Hacking+%26+Penetration+Testing;Deploying+Lab+VMs+with+VirtualBox;Kovilen+Sookalingum" alt="Typing SVG"/>
-  </a>
+  <!-- 3. Banner -->
+  <img src="./Evidences/De.png" alt="MAKATOB Cohort 2 Banner" width="100%"/>
 
-  <br/>
+  <br/><br/>
 
-  <!-- 4. Badges (Red · Blue · Yellow) -->
-  <p>
-    <img src="https://img.shields.io/badge/Cohort-MAKATOB%202-FF0000?style=for-the-badge&logo=target&logoColor=FFD700&labelColor=000000" alt="Cohort"/>
-    <img src="https://img.shields.io/badge/Focus-Ethical%20Hacking-0066FF?style=for-the-badge&logo=kalilinux&logoColor=FFD700&labelColor=000000" alt="Focus"/>
-    <img src="https://img.shields.io/badge/Status-In%20Progress-FFD700?style=for-the-badge&logo=statuspage&logoColor=000000&labelColor=000000" alt="Status"/>
-    <img src="https://img.shields.io/badge/Labs-1%20Complete-FF0000?style=for-the-badge&logo=bookstack&logoColor=FFD700&labelColor=000000" alt="Labs"/>
+  <!-- 4. Main badges (bigger via height) -->
+  <p align="center">
+    <img src="https://img.shields.io/badge/Cohort-MAKATOB%202-555555?style=for-the-badge&logo=target&logoColor=FFFFFF&labelColor=0A0A0A" height="42"/>
+    <img src="https://img.shields.io/badge/Focus-Ethical%20Hacking-555555?style=for-the-badge&logo=kalilinux&logoColor=FFFFFF&labelColor=0A0A0A" height="42"/>
+    <img src="https://img.shields.io/badge/Status-In%20Progress-555555?style=for-the-badge&logo=statuspage&logoColor=FFFFFF&labelColor=0A0A0A" height="42"/>
+    <img src="https://img.shields.io/badge/Labs-1%20Complete-555555?style=for-the-badge&logo=bookstack&logoColor=FFFFFF&labelColor=0A0A0A" height="42"/>
   </p>
 
-  <!-- 5. Social links (Red · Blue · Yellow) -->
-  <p>
-    <a href="https://github.com/YOUR_USERNAME">
-      <img src="https://img.shields.io/badge/GitHub-FF0000?style=for-the-badge&logo=github&logoColor=FFD700&labelColor=000000" alt="GitHub"/>
-    </a>
-    <a href="https://linkedin.com/in/YOUR_PROFILE">
-      <img src="https://img.shields.io/badge/LinkedIn-0066FF?style=for-the-badge&logo=linkedin&logoColor=FFD700&labelColor=000000" alt="LinkedIn"/>
-    </a>
-    <a href="mailto:your.email@example.com">
-      <img src="https://img.shields.io/badge/Email-FFD700?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=000000" alt="Email"/>
-    </a>
+  <!-- 5. Tools row (bigger via height) -->
+  <p align="center">
+    <img src="https://img.shields.io/badge/Kali_Linux-555555?style=for-the-badge&logo=kalilinux&logoColor=FFFFFF&labelColor=0A0A0A" height="38"/>
+    <img src="https://img.shields.io/badge/VirtualBox-555555?style=for-the-badge&logo=virtualbox&logoColor=FFFFFF&labelColor=0A0A0A" height="38"/>
+    <img src="https://img.shields.io/badge/Wireshark-555555?style=for-the-badge&logo=wireshark&logoColor=FFFFFF&labelColor=0A0A0A" height="38"/>
+    <img src="https://img.shields.io/badge/Git-555555?style=for-the-badge&logo=git&logoColor=FFFFFF&labelColor=0A0A0A" height="38"/>
   </p>
+
+  <!-- 7. Divider -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0A0A,50:555555,100:0A0A0A&height=3&section=header" width="100%"/>
 
 </div>
 
----
-
-## 📚 Modules
-
-| # | Module | Status | Evidence |
-|---|--------|--------|----------|
-| 01 | Cybersecurity Lab VM Deployment | ✅ Complete | [View](./Evidences/Project1labs/) |
-| 02 | Shell Fundamentals | 🚧 In Progress | — |
-| 03 | Network Scanning | ⏳ Planned | — |
-| 04 | Vulnerability Assessment | ⏳ Planned | — |
-| 05 | Exploitation | ⏳ Planned | — |
-| 06 | Post-Exploitation | ⏳ Planned | — |
-| 07 | Reporting | ⏳ Planned | — |
-
----
-
-## 🗂️ Repository Structure
