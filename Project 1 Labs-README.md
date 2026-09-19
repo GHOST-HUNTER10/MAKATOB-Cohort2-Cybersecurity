@@ -193,7 +193,7 @@ The **System** tab confirms **2 CPUs** allocated (out of a possible 4), and the 
 
 Finally, the **Network** tab was checked to confirm the adapter mode. **Adapter 1** was left set to **NAT** (with **Bridged Adapter** available as the alternative) — NAT is the appropriate default for an isolated lab environment, since it lets the VM reach the internet through the host without being directly exposed on the local network.
 
-<img src="./Evidences/7.jpeg" alt="Settings Network" width="100%"/>
+<img src="./Evidences/.jpeg" alt="Settings Network" width="100%"/>
 
 > **Figure 4.7** — Settings → Network: Adapter 1 attached to NAT (Bridged Adapter shown as the alternative).
 
